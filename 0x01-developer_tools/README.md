@@ -136,4 +136,4 @@ Read or watch:
 ---
 
 ## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
+* **Isaac Annor** - [Mahiuha](https://github.com/KingBygone0)
