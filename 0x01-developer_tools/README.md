@@ -136,4 +136,4 @@ Read or watch:
 ---
 
 ## Author
-* **Isaac Annor** - [Mahiuha](https://github.com/KingBygone0)
+* **Isaac Annor** - [King Bygone](https://github.com/KingBygone0)
